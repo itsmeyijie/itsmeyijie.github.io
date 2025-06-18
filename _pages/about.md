@@ -17,14 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a final-year in the Department of Computing at Hong Kong Polytechnic University, advised by Prof. Dan Wang. Before that, I received my bachelor’s and master’s degrees from the School of Computer Science and Technology, Harbin Institute of Technology, Harbin, in 2020 and 2022, respectively.  My research centered on the intersection of <p style="color:red">sustainable energy systems</p> and <font color="red">data-driven optimization under uncertainty</font>*. She focuses on developing carbon-aware operational strategies and robust optimization methods for energy systems to achieve low/net-zero emissions with \textcolor{red}{statistical guarantee}, specifically addressing challenges posed by forecasting uncertainties, leveraging data-driven and ML/DL techniques (e.g., conformal prediction), and robust optimization (e.g., chance-constrained, distributionally robust optimization).
-
-
+I am a final-year in the Department of Computing at Hong Kong Polytechnic University, advised by Prof. Dan Wang. Before that, I received my bachelor’s and master’s degrees from the School of Computer Science and Technology, Harbin Institute of Technology, Harbin, in 2020 and 2022, respectively.  My research centered on the intersection of <font color="red">sustainable energy systems</font> and <font color="red">data-driven optimization under uncertainty</font>. She focuses on developing carbon-aware operational strategies and robust optimization methods for energy systems to achieve low/net-zero emissions with <font color="red">statistical guarantee</font>, specifically addressing challenges posed by forecasting uncertainties, leveraging data-driven and ML/DL techniques (e.g., conformal prediction), and robust optimization (e.g., chance-constrained, distributionally robust optimization).
 
 
 
 # 🔥 News
-- *2025.06*: &nbsp;🎉🎉 *Uncertainty-aware Day-ahead Datacenter Workload Planning with Load-following Small Modular Reactors* was accepted by HotCarbon Workshop on Sustainable Computer Systems, 2025.
+- *2025.06*: &nbsp;🎉🎉 *Uncertainty-aware Day-ahead Datacenter Workload Planning with Load-following Small Modular Reactors* is accepted by HotCarbon Workshop on Sustainable Computer Systems, 2025.
 
 
 # 📝 Publications 
@@ -66,14 +64,6 @@ I am a final-year in the Department of Computing at Hong Kong Polytechnic Univer
     Jian Shi, Zirui Tong, Dan Wang, Chenye Wu, Zhu Han, **Yijie Yang**, and Kaushik Rajashekara<br>
     *PNAS Nexus*, Under Review.
 
-# 💻 Projects
-
-## Autonomous Retail System
-*   Aug. 2019 – Aug. 2021
-*   Advisors: Prof. Zhijun Li (HIT), Prof. Jie Liu (Director of AI Institute, HIT-Shenzhen)
-*   Contributed to the design, development, and deployment of a real-world auto-checkout retail store, providing a practical solution for checkout-free shopping experiences.
-*   Integrated complex data streams from a network of cameras and weight sensors, building a robust multi-sensor fusion system to power essential features: human behavior analysis, product identification, multi-person 3D pose estimation, and secure customer-product linkage. Applied advanced computer vision techniques (e.g., keypoint detection, triangulation, ReID) and time-series data analysis (for weight sensors) to achieve precise tracking and identification in a dynamic environment.
-
 
 # 🎖 Honors and Awards
 - *2019*: First Prize of National Mathematical Modeling Competition for College Students
@@ -88,6 +78,6 @@ I am a final-year in the Department of Computing at Hong Kong Polytechnic Univer
 - *2021, 2022, 2023, 2024*: Teaching Assistant for Social and Collaborative Computing
 
 # 🛠 Skills
-- **Programming Languages:** Python, MATLAB, C, C++, Java, MySQL, MongoDB.
-- **ML/DL Tools:** PyTorch, Tensorflow, wandb.
+- **Programming Languages:** Python, Matlab, C, C++, Java, MySQL, MongoDB.
+- **ML/DL Tools:** PyTorch, Tensorflow, Wandb.
 - **Language Skills:** TOEFL (99)
