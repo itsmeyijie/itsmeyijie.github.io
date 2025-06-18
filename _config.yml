@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yijie Yang"
-description              : "Ph.D. students in Department of Computing, PolyU."
+description              : "Department of Computing, Hong Kong Polytechnic University"
 repository               : "itsmeyijie/itsmeyijie.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yijie Yang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Hong Kong Polytechnic University"
+  bio              : "Ph.D. Student"
   location         : "Hong Kong"
   employer         :
   pubmed           : 
