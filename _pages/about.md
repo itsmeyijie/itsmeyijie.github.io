@@ -30,15 +30,15 @@ I am a final-year Ph.D. student in the Department of Computing at Hong Kong Poly
 
 1.  [1] Carbon-Aware Scheduling of Thermostatically Controlled Loads: A Bilevel DRCC Approach<br>
     **Yijie Yang**, Jian Shi, Dan Wang, Chenye Wu, and Zhu Han<br>
-    *IEEE Transactions on Smart Grid (TSG, impact factor: 8.6, JCR Q1)*, 2025. [10.1109/TSG.2024.3525134](https://doi.org/10.1109/TSG.2024.3525134)
+    *IEEE Transactions on Smart Grid (TSG, impact factor: 9.8, JCR Q1)*, 2025. [10.1109/TSG.2024.3525134](https://doi.org/10.1109/TSG.2024.3525134)
 
 2.  [2] Net-Zero Scheduling of Multi-energy Building Energy Systems: A Learning-based Robust Optimization Approach with Statistical Guarantees<br>
     **Yijie Yang**, Jian Shi, Dan Wang, Chenye Wu, and Zhu Han<br>
-    *IEEE Transactions on Sustainable Energy (TSTE, impact factor: 8.6, JCR Q1)*, 2024. [10.1109/TSTE.2024.3437210](https://doi.org/10.1109/TSTE.2024.3437210)
+    *IEEE Transactions on Sustainable Energy (TSTE, impact factor: 10, JCR Q1)*, 2024. [10.1109/TSTE.2024.3437210](https://doi.org/10.1109/TSTE.2024.3437210)
 
 3.  [3] Uncertainty-aware Day-ahead Datacenter Workload Planning with Load-following Small Modular Reactors<br>
     **Yijie Yang**, Dan Wang, Jian Shi, Chenye Wu, and Zhu Han<br>
-    *HotCarbon Workshop on Sustainable Computer Systems*, 2025, accepted
+    *ACM SIGEnergy Energy Informatics Review (EIR)*, 2025, [10.1145/3757892.3757905](https://doi.org/10.1145/3757892.3757905)
 
 4.  [4] A Conformal Prediction-Based Chance-Constrained Programming Approach for 24/7 Carbon-Free Data Center Operation Scheduling<br>
     **Yijie Yang**, Jian Shi, Dan Wang, Chenye Wu, and Zhu Han<br>
@@ -63,6 +63,10 @@ I am a final-year Ph.D. student in the Department of Computing at Hong Kong Poly
 2.  [2] A Multi-Layered Framework for Advancing Rapid and Balanced Electric Power System Decarbonization<br>
     Jian Shi, Zirui Tong, Dan Wang, Chenye Wu, Zhu Han, **Yijie Yang**, and Kaushik Rajashekara<br>
     *PNAS Nexus*, Under Review.
+ 
+3.  [3] Co-Optimizing Carbon Allowance Trading and Power Dispatch With Spot–Futures Market Coupling Under Uncertainty<br>
+    Zirui Tong, Jian Shi, **Yijie Yang**, Dan Wang, Chenye Wu, Zhu Han<br>
+    *IEEE Transactions on Energy Markets*, Policy, and Regulation, Under Review.
 
 
 # 🎖 Honors and Awards
