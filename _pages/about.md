@@ -17,11 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a final-year Ph.D. student in the Department of Computing at Hong Kong Polytechnic University, advised by Prof. Dan Wang. Before that, I received my bachelor’s and master’s degrees from the School of Computer Science and Technology, Harbin Institute of Technology, Harbin, in 2020 and 2022, respectively.  My research centered on the intersection of <font color="red">sustainable energy systems</font> and <font color="red">data-driven optimization under uncertainty</font>. She focuses on developing carbon-aware operational strategies and robust optimization methods for energy systems to achieve low/net-zero emissions with <font color="red">statistical guarantee</font>, specifically addressing challenges posed by forecasting uncertainties, leveraging data-driven and ML/DL techniques (e.g., conformal prediction), and robust optimization (e.g., chance-constrained programming, distributionally robust optimization).
+I am now a Research Asscociate in The Chinese University of Hong Kong from Mar. 2026. Before that, I get my Ph.D. student in the Department of Computing at Hong Kong Polytechnic University in Jan. 2026, advised by Prof. Dan Wang.  I received my bachelor’s and master’s degrees from the School of Computer Science and Technology, Harbin Institute of Technology, Harbin, in 2020 and 2022, respectively.  My research centered on the intersection of <font color="red">sustainable energy systems</font> and <font color="red">data-driven optimization under uncertainty</font>. She focuses on developing carbon-aware operational strategies and robust optimization methods for energy systems to achieve low/net-zero emissions with <font color="red">statistical guarantee</font>, specifically addressing challenges posed by forecasting uncertainties, leveraging data-driven and ML/DL techniques (e.g., conformal prediction), and robust optimization (e.g., chance-constrained programming, distributionally robust optimization).
 
 
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉🎉 *A multilayered framework for advancing rapid and cost-effective electric power system decarbonization* is accepted by PNAS nexus.
+
 - *2025.06*: &nbsp;🎉🎉 *Uncertainty-aware Day-ahead Datacenter Workload Planning with Load-following Small Modular Reactors* is accepted by HotCarbon Workshop on Sustainable Computer Systems, 2025.
 
 
@@ -52,7 +54,7 @@ I am a final-year Ph.D. student in the Department of Computing at Hong Kong Poly
 
 2.  [2] Spatial-Temporal Embodied Carbon Models with Dual Carbon Attribution for Embodied Carbon Accounting of Computer Systems<br>
     Xiaoyang Zhang, **Yijie Yang**, Dan Wang<br>
-    *IEEE Transactions on Computers (TC)*, Under Review.
+    *IEEE Transactions on Computers (TC)*, [10.1109/TC.2025.3605743](https://www.computer.org/csdl/journal/tc/5555/01/11150750/29JWQ9b0pFu).
 
 ## Power System Decarbonization
 
@@ -62,7 +64,7 @@ I am a final-year Ph.D. student in the Department of Computing at Hong Kong Poly
 
 2.  [2] A Multi-Layered Framework for Advancing Rapid and Balanced Electric Power System Decarbonization<br>
     Jian Shi, Zirui Tong, Dan Wang, Chenye Wu, Zhu Han, **Yijie Yang**, and Kaushik Rajashekara<br>
-    *PNAS Nexus*, Under Review.
+    *PNAS Nexus*, [doi.org/10.1093/pnasnexus/pgag139](https://doi.org/10.1093/pnasnexus/pgag139).
  
 3.  [3] Co-Optimizing Carbon Allowance Trading and Power Dispatch With Spot–Futures Market Coupling Under Uncertainty<br>
     Zirui Tong, Jian Shi, **Yijie Yang**, Dan Wang, Chenye Wu, Zhu Han<br>
